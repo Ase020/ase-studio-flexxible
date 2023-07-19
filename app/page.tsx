@@ -1,6 +1,4 @@
-type Props = {};
-
-const Home = (props: Props) => {
+const Home = () => {
   return (
     <section className="flex-start paddings mb-16 flex-col">
       <h1>Categories</h1>
